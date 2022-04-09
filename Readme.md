@@ -1,5 +1,8 @@
 Capstone project submission by CV1 Group 5 
 
+CAPSTON PROJECT 
+PNEUMONIA DETECTION CHALLENGE
+
 Members
 
 1. Manpreet Kaur
